@@ -19,7 +19,7 @@ class App extends React.Component {
         src: response.data.results[0].picture.large
       });
     });
-    habskasn;
+  
   }
 
   render() {
